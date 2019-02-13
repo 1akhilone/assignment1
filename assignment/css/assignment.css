@@ -1,0 +1,38 @@
+.image{
+	width:100%;
+	height:fit-content;
+}
+body{
+	background-color: #ffc34d;
+}
+.top-bar,.top-bar .dropdown .menu,.top-bar li a{
+	color:white;
+	background-color: #cc9900;
+}
+.grid-container{
+	background-color: #ffd699 ;
+	max-width:65rem;
+	padding: 0px;
+}
+.dropdown.menu  li  a{
+	padding-left: 40px;
+}
+.card{
+	margin: 10px;
+	background-color: #ffd699;
+	border-color: gray;
+	border-width: 2px;
+	border-radius: 10px;
+}
+.card-divider{
+	padding:20px;
+	background-color: #ffd699;
+}
+.card-section{
+	height: 300px;
+}
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
